@@ -1,0 +1,28 @@
+div{
+ text-align: center;
+}
+
+h1{
+  
+  font-size: 3rem;
+  color:rgb(107, 3, 83);
+}
+
+p{
+  font-size: 4rem;
+  color:rgb(106, 168, 238);
+}
+
+
+table{
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+tbale,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+
+}
